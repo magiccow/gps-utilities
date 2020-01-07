@@ -1,4 +1,4 @@
-# gps-utlilities
+# gps-utilities
 
 Utilities in Python 3 to read and interpret NMEA sentences from a GPS module ( tested with the NEO-6M ) serially/USB
 attached to the Mac.
