@@ -8,6 +8,7 @@ For more information on GPS/NMEA message formats, see online where there are man
 - https://en.wikipedia.org/wiki/NMEA_0183
 - https://www.gpsinformation.org/dale/nmea.htm
 
+See the accompanying video at: https://youtu.be/l_Yh8S8CQ-0
 
 Scripts in this repo:
 
